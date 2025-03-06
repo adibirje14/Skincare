@@ -1,1 +1,1 @@
-# Skincare
+# Sample Skincare Website
